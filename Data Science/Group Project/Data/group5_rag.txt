@@ -1,0 +1,3 @@
+https://huggingface.co/datasets/MMDocIR/Train_dataset.git
+https://huggingface.co/datasets/MMDocIR/MMDocIR-Challenge.git
+https://huggingface.co/datasets/MMDocIR/Evaluation_Dataset.git
