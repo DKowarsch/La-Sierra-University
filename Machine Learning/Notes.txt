@@ -1,1 +1,3 @@
-
+1. In the director of La Sierra University/Machine Learning, there are two folders: one is Data and the other one is Notebooks.
+2. Push your data (both raw and final datasets in to the Data directory): projectname_raw_data and projectname_final_data
+3. Push your notebook to the Notebooks directory: Pronectanme
